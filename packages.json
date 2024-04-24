@@ -18,5 +18,9 @@
   {
     "package": "ggeo",
     "url": "https://github.com/Nenuial/ggeo"
+  },
+  {
+    "package": "themakart",
+    "url": "https://github.com/Nenuial/themakart"
   }
 ]
