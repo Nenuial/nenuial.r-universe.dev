@@ -20,6 +20,10 @@
     "url": "https://github.com/Nenuial/ggeo"
   },
   {
+    "package": "geopkg",
+    "url": "https://github.com/Nenuial/geopkg"
+  },
+  {
     "package": "themakart",
     "url": "https://github.com/Nenuial/themakart"
   }
